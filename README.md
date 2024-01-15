@@ -9,9 +9,9 @@
 
 ## 🐒Primeiros passos
 
-  * para instalar, so ir na aba extensões do vscode e procurar pelo nome acima
+  * para instalar, so ir na aba extensões do vscode e procurar pelo nome Apc Customize UI++
          
-  * Após isso, renicie e aperta Ctrl+shift+p, procure por Settings e ira aparecer algo parecido com
+  * Após isso, renicie o vscode e aperta Ctrl+shift+p, procure por Settings e ira aparecer algo parecido com
 
 
     
